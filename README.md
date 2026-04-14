@@ -1,1 +1,0 @@
-[![Release CI](https://github.com/MMRLApp/MMRL/actions/workflows/release-ci.yml/badge.svg)](https://github.com/MMRLApp/MMRL/actions/workflows/release-ci.yml)
